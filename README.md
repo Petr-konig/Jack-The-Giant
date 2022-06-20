@@ -20,4 +20,10 @@ In this 2D platformer game the main goal is to get highest possible score by:
 
 ![GamePreview](./PresentationImages/PlayGame.png)
 
-# 
+# Game Settings
+The Game is built in fixed 480x800 resolution
+There is no save file
+High scores for different difficulties are saved
+in player prefferences in the Registry
+
+![REgistry](./PresentationImages/Registry.png)
