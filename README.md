@@ -4,12 +4,10 @@
 This is my first created Game with Unity and C#
 
 # Main Menu
-![MenuPreview](./PresentationImages/MainMenu.png)
-
 As any other game, it is necessary to have Main Menu so player can choose
 the game difficulty, set music On and Off
 
-![DifficultyPreview](./PresentationImages/GameOptions.png)
+![MenuPreview](./PresentationImages/MainMenu.png) ![DifficultyPreview](./PresentationImages/GameOptions.png)
 
 # Main Goal
 In this 2D platformer game the main goal is to get highest possible score by:
